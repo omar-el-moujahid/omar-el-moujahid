@@ -1,6 +1,8 @@
-Here’s an updated version of your README that aligns with your expertise and includes the requested changes.
+<p align="center">
+  <h1>👋 Hi Dear</h1>
+</p>
 
----
+<p align="center">Welcome to my GitHub profile!</p>
 
 # 🏄‍♂️ Omar El Moujahid
 
