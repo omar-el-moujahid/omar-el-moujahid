@@ -2,9 +2,9 @@
 
 # Omar El Moujahid
 
-**AI Engineer · LLMs & Multi-Agent Systems · Ex ML Research Intern @Oracle MDC**
+**AI Engineer · LLMs & Multi-Agent Systems · **
 
-*Final-year CS Engineering Student — ENSA Fès + ENSIM Le Mans (Double Degree)*
+*4th-year CS Engineering Student *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-el-moujahid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omarelmoujahid5@gmail.com)
