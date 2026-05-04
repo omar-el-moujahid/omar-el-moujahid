@@ -99,6 +99,6 @@
 
 <div align="center">
 
-*Open to internship from June 2026 — AI/ML Engineering · Data Science · AI Research*
+*Open to internship — AI/ML Engineering · Data Science · AI Research*
 
 </div>
